@@ -1,7 +1,7 @@
 # Image-quality-improvement-of-liver-ultrasound-using-unsupervised-deep-learning
 
 # 📊Datasets📊
-![figure1](./IMGS/flowchart.png)
+<img src="./IMGS/flowchart.png" width="200" height="400"/>
 ![figure2](./IMGS/description.png)
 
 # Description
